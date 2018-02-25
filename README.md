@@ -2,8 +2,9 @@
 
 A list of publicly accessible sports APIs on the web. JSON whenever possible.
 
-**Important**: I created gathered this information for my own educational purposes. I am not responsible for any trouble you 
-may get yourself into by using this information.
+**Important**: I gathered this information for my own educational purposes. I am not responsible for any trouble you 
+may get yourself into by using it. If you publish a website or release software which uses one or more of these sources,
+it is very likely you'll be violating terms of service, infringing on league or team copyrights, or otherwise breaking the law.
 
 ## NBA 
 
